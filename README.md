@@ -11,6 +11,9 @@ Here is how to run it on Windows:
 ```
 \CollegeBruteForce> bruteclg.exe
 ```
+### _It's That EASY !_
 _**Screenshots:**_
+![alt Screenshot](https://github.com/Ankith-Cirgir/CollegeBruteForce/blob/master/ScreenShots/Capture.png "Screenshot1")
+![alt ScreenShot](https://github.com/Ankith-Cirgir/CollegeBruteForce/blob/master/ScreenShots/Capture1.PNG "ScreenShot2")
 
-### __BY:__   ![alt text](https://github.com/Ankith-Cirgir/CollegeBruteForce/blob/master/clumsylogo.png "ClumsyRat")
+### __BY:__   ![alt ClumsyRat](https://github.com/Ankith-Cirgir/CollegeBruteForce/blob/master/clumsylogo.png "ClumsyRat")
