@@ -11,6 +11,7 @@ Here is how to run it on Windows:
 ```
 \CollegeBruteForce> bruteclg.exe
 ```
+6. Results are stored in results.txt file in the same directory.
 ### _It's That EASY !_
 _**Screenshots:**_
 ![alt Screenshot](https://github.com/Ankith-Cirgir/CollegeBruteForce/blob/master/ScreenShots/Capture.png "Screenshot1")
